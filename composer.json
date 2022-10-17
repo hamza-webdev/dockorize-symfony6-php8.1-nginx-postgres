@@ -1,0 +1,17 @@
+{
+    "name": "hamza/www",
+    "description": "docker file zsh",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hamza\\Www\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hamza"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
